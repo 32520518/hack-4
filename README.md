@@ -1,3 +1,4 @@
 # hack-4
-the program c in 401(k) plan, which is making account to help people to save money\n
+the program c in 401(k) plan, which is making account to help people to save money
+
 Author: Wencheng Bao
